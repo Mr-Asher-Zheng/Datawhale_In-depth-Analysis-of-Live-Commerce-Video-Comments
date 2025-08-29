@@ -1,4 +1,6 @@
 # Datawhale_In-depth-Analysis-of-Live-Commerce-Video-Comments
+- 比赛链接：
+  [基于带货视频评论的用户洞察挑战赛](https://challenge.xfyun.cn/topic/info?type=video-comment-insight&option=ssgy&ch=dwsfsp25-1)
 - 比赛手册：
   [Datawhale_大模型技术_基于带货视频评论的用户洞察挑战赛](https://www.datawhale.cn/activity/324/learn/191/4330)
 - 先上分数：
