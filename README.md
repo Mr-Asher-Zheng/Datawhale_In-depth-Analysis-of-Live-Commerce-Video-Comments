@@ -1,5 +1,7 @@
 # Datawhale_In-depth-Analysis-of-Live-Commerce-Video-Comments
 [Datawhale_大模型技术_基于带货视频评论的用户洞察挑战赛](https://www.datawhale.cn/activity/324/learn/191/4330)
+先上分数：
+<img width="1255" height="140" alt="08fd972c4b4097d2bcfa1a639890c313" src="https://github.com/user-attachments/assets/8d2c8dc4-cd84-48c4-a17b-f52ff83e4dcf" />
 
 ## 📔日志
 
