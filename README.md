@@ -30,7 +30,7 @@
 - loss function
   - Focal Loss（这次项目的唯一的卡密`かみ`，能直接把loss压低，把F1提高5%）
     - 参考文章和论文：[pytorch如何使用Focal Loss](https://blog.csdn.net/weixin_45277161/article/details/132626946)、[Focal Loss for Dense Object Detection](https://arxiv.org/abs/1708.02002)
-    - 这里放几张我训练出来表现最好的模型的日志图，其实还有其他的，但是我文件命名不规范，记不得其他调什么了，所以对比不了
+    - 这里放几张我训练出来表现最好的模型（`千问+xrl+2EDA+全focal_loss+标签平滑+翻译增强`）的日志图，其实还有其他的，但是我文件命名不规范，记不得其他调什么了，所以对比不了
     - F1：
       <img width="1440" height="660" alt="image" src="https://github.com/user-attachments/assets/2c7c3dc9-b216-48b5-ba1a-b0ffacc2505d" />
       <img width="1394" height="578" alt="image" src="https://github.com/user-attachments/assets/058145e1-315c-46ed-84ad-6bba3cfca50e" />
