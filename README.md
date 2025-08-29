@@ -46,6 +46,9 @@
 - model
   - Bert：
     - 模型选型方面我最开始用的是[bert-base-multilingual-cased](https://www.modelscope.cn/models/google-bert/bert-base-multilingual-cased)(`这是标准BERT架构在多语言数据集上训练的模型`)，后来使用[xlm-roberta-base](https://www.modelscope.cn/models/AI-ModelScope/xlm-roberta-base)(`这是对BERT的训练策略和数据使用进行优化后在多语言数据集上训练的模型`)，最后使用[xlm-roberta-large](https://www.modelscope.cn/models/AI-ModelScope/xlm-roberta-large)(`参数量比xlm-roberta-base大，在此项目经过实践证明是比base好的`)
+    - 网络架构：
+      <img width="1796" height="413" alt="graphviz" src="https://github.com/user-attachments/assets/380b04a5-171a-4325-8529-6cf2d67d02c2" />
+      
   - 大语言模型：
     - 在比赛交流会中，这部分有些人是使用大语言模型做的，由于比赛进行时我正在学习大语言模型相关知识所以没在这部分用大语言模型，而且我的笔记本电脑只能运行小的大语言模型，而且大语言模型的API调用要花钱，况且有些人用了大语言模型后的分数也没我的高（嘻嘻，当然也有一些比我高的），所以这部分我就没怎么用大语言模型
 
@@ -91,7 +94,7 @@
 - `Sentiment_Analysis`：情感分析
   - 运行顺序：data_clean，Bert_train.py划分数据，XFTranslator.py翻译增强，Bert_train.py，Bert_pred.py
   - `data`：存放数据
-  - `model`：模型存放位置
+  - `model`：模型存放位置（[移动网盘链接](https://caiyun.139.com/w/i/2prAJSaEYDFq6)，提取码:b5ak）
   - `train_logs`：训练日志
   - `Bert_pred.py`：模型预测
   - `Bert_train.py`：模型训练
